@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://notes-app-s5ht.vercel.app';
+export const BASE_URL = 'https://notes-app-ten-zeta.vercel.app';
